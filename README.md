@@ -2,8 +2,7 @@
 
 ###What is it?
 
-An arcade game developed using Python. Used python library pygame
-for the development.
+An arcade game developed using pygame (a python library)
 
 ---
 
